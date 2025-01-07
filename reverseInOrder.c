@@ -1,3 +1,4 @@
+// printing array in reverse
 #include <stdio.h>
 
 int main()
