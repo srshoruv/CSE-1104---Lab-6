@@ -9,7 +9,7 @@ int main()
 
     int arr[n];
 
-    printf("Scanning in elements: \n");
+    printf("Enter the elements: \n");
 
     for (int i=0; i < n; i++)
     {

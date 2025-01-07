@@ -13,7 +13,7 @@ int main()
     int even[n];
     int o_count = 0, e_count = 0;
 
-    printf("Scanning the elements: \n");
+    printf("Enter the elements: \n");
 
     for (int i=0; i < n; i++)
     {
